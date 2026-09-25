@@ -1,0 +1,24 @@
+#+options toc:nil num:nil
+
+* xiny-cli
+
+A simple cli viewer for [[https://learnxinyminutes.com][Learn X in Y Minutes]].
+
+** Usage
+
+#+begin_source sh
+xiny <lang> [<locale>]
+#+end_source
+
+By default, we pipe to less.
+If less cannot be found, we dump to stdout.
+
+** Compilation
+
+#+begin_source sh
+go build
+#+end_source
+
+** Credits
+
+[[https://github.com/adambard/learnxinyminutes-docs][Learn X in Y Minutes]] for being such a great resource!
