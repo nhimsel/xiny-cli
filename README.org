@@ -1,4 +1,4 @@
-#+options toc:nil num:nil
+#+options: toc:nil num:nil
 
 * xiny-cli
 
