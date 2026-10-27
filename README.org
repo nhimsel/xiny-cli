@@ -15,9 +15,9 @@ If less cannot be found, we dump to stdout.
 
 ** Compilation
 
-#+begin_source sh
+#+begin_src sh
 go build
-#+end_source
+#+end_src
 
 ** Credits
 
